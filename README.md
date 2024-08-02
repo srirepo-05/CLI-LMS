@@ -25,7 +25,7 @@ This Learning Management System (LMS) is designed to facilitate the management o
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sponge-24/CLI-LMS
+   git clone https://github.com/srirepo-05/CLI-LMS
    ```
 2. **Navigate to the project directory:**
    ```bash
